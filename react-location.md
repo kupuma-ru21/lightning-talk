@@ -37,8 +37,8 @@ https://react-location.tanstack.com/guides/route-loaders
 #### Route Elements
 - 画面遷移周りをハンドリングしてくれる機能
 
-- pathが一致したがエラーが発生したときに、エラー用のコンポーネントを定義しておけば表示してくれる
-- pathが一致してpending状態に入ったときに、pending用のコンポーネントを定義しておけば表示してくれる
+  - pathが一致したがエラーが発生したときに、エラー用のコンポーネントを定義しておけば表示してくれる
+  - pathが一致してpending状態に入ったときに、pending用のコンポーネントを定義しておけば表示してくれる
 
 
 https://react-location.tanstack.com/guides/route-elements
