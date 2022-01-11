@@ -48,8 +48,9 @@ https://react-location.tanstack.com/guides/pending-states
 
 #### React Location Simple Cache
 - Route Loaders内で利用できるcache機能
+  - 画面遷移時にRoute Loadersでfetchしたデータのcacheが使えるようになります。
 
-別途ライブラリをインストールすることで、cacheが使えるようになります。
+別途ライブラリをインストールすることで、cacheが使える。
 公式のdevToolも用意されてるので、開発もしやすそう
 
 https://react-location.tanstack.com/tools/simple-cache
